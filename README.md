@@ -2,7 +2,7 @@
 **English** · [中文](README_CN.md) 
 
 **Use Coze on your favorite OpenAI client.**
-
+Hello!
 This project converts the Coze API to the OpenAI API format, giving you access to [Coze](https://www.coze.com) LLMs, knowledge base, plugins, and workflows within your preferred OpenAI clients. 
 
 ## Features
